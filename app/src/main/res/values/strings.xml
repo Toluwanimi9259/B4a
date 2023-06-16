@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">B4a</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">fA2ZBtevFaXgm7E9FjQJL15Q3PGxn1PrdeOLVbaC</string>
+    <string name="back4app_client_key">0f9IGTPnRPUvNAcGXJ9IKp73dAA6PvbfjmdVvwgD</string>
+</resources>
